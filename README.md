@@ -4,7 +4,7 @@ Alexa
 `https://alexa-7e325.web.app/dashboard/allbuyers`
 
 ## Github link:
-`https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-NaimaN00r`
+`https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-NaimaN00r`
 
 ## About this Project 
 1.It is a resell mobile buying and selling website
