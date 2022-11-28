@@ -22,7 +22,7 @@ const Blog = () => {
                     Try to imagine building a blog without being able to fetch a post based off of its slug or id that is located in the URL!</p>
 
             </div>
-            <div className='border-2 border-black bg-red-50 p-3 m-5'>
+            {/* <div className='border-2 border-black bg-red-50 p-3 m-5'>
                 <h1 className='text-center text-xl'>2.How does prototypical inheritance work?</h1>
                 <p>The Prototypal Inheritance is a feature in javascript used to add methods and properties in objects. It is a method by which an object can inherit the properties and methods of another object. Traditionally, in order to get and set the [[Prototype]] of an object, we use Object. getPrototypeOf and Object.
                     The most important difference between class- and prototype-based inheritance is that a class defines a type which can be instantiated at runtime, whereas a prototype is itself an object instance.
@@ -46,7 +46,7 @@ const Blog = () => {
                     Popularity. According to a survey by Stack Overflow 40.13% of the developers believe that React is the most commonly used JavaScript Framework. Angular and Vue follow it with 22.96% and 18.97%, respectively.J
                 </p>
 
-            </div>
+            </div> */}
 
         </div>
 
