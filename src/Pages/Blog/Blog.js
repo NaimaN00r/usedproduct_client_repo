@@ -39,14 +39,14 @@ const Blog = () => {
                 </p>
 
             </div>
-            {/* <div className='border-2 border-black bg-red-50 p-3 m-5'>
+            <div className='border-2 border-black bg-red-50 p-3 m-5'>
                 <h1 className='text-center text-xl'>4.React vs. Angular vs. Vue?</h1>
                 <p>Vue provides higher customizability and hence is easier to learn than Angular or React. Further, Vue has an overlap with Angular and React with respect to their functionality like the use of components. Hence, the transition to Vue from either of the two is an easy option.
                     One of the main reasons for the popularity of React is that it works very efficiently with the DOM. Vue also uses the virtual DOM, but compared to React, Vue has better performance and stability. According to this data, Vue and React's performance difference is subtle since it is only a few milliseconds.
                     Popularity. According to a survey by Stack Overflow 40.13% of the developers believe that React is the most commonly used JavaScript Framework. Angular and Vue follow it with 22.96% and 18.97%, respectively.J
                 </p>
 
-            </div> */}
+            </div>
 
         </div>
 
