@@ -22,7 +22,7 @@ const Blog = () => {
                     Try to imagine building a blog without being able to fetch a post based off of its slug or id that is located in the URL!</p>
 
             </div>
-            {/* <div className='border-2 border-black bg-red-50 p-3 m-5'>
+            <div className='border-2 border-black bg-red-50 p-3 m-5'>
                 <h1 className='text-center text-xl'>2.How does prototypical inheritance work?</h1>
                 <p>The Prototypal Inheritance is a feature in javascript used to add methods and properties in objects. It is a method by which an object can inherit the properties and methods of another object. Traditionally, in order to get and set the [[Prototype]] of an object, we use Object. getPrototypeOf and Object.
                     The most important difference between class- and prototype-based inheritance is that a class defines a type which can be instantiated at runtime, whereas a prototype is itself an object instance.
@@ -31,7 +31,7 @@ const Blog = () => {
                 </p>
 
             </div>
-            <div className='border-2 border-black bg-red-50 p-3 m-5'>
+            {/* <div className='border-2 border-black bg-red-50 p-3 m-5'>
                 <h1 className='text-center text-xl'>3.What is a unit test? Why should we write unit tests?</h1>
                 <p>A unit test is a way of testing a unit - the smallest piece of code that can be logically isolated in a system. In most programming languages, that is a function, a subroutine, a method or property. The isolated part of the definition is important.
                     The main objective of unit testing is to isolate written code to test and determine if it works as intended. Unit testing is an important step in the development process, because if done correctly, it can help detect early flaws in code which may be more difficult to find in later testing stages.
