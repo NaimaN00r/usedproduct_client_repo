@@ -31,7 +31,7 @@ const Blog = () => {
                 </p>
 
             </div>
-            {/* <div className='border-2 border-black bg-red-50 p-3 m-5'>
+            <div className='border-2 border-black bg-red-50 p-3 m-5'>
                 <h1 className='text-center text-xl'>3.What is a unit test? Why should we write unit tests?</h1>
                 <p>A unit test is a way of testing a unit - the smallest piece of code that can be logically isolated in a system. In most programming languages, that is a function, a subroutine, a method or property. The isolated part of the definition is important.
                     The main objective of unit testing is to isolate written code to test and determine if it works as intended. Unit testing is an important step in the development process, because if done correctly, it can help detect early flaws in code which may be more difficult to find in later testing stages.
@@ -39,7 +39,7 @@ const Blog = () => {
                 </p>
 
             </div>
-            <div className='border-2 border-black bg-red-50 p-3 m-5'>
+            {/* <div className='border-2 border-black bg-red-50 p-3 m-5'>
                 <h1 className='text-center text-xl'>4.React vs. Angular vs. Vue?</h1>
                 <p>Vue provides higher customizability and hence is easier to learn than Angular or React. Further, Vue has an overlap with Angular and React with respect to their functionality like the use of components. Hence, the transition to Vue from either of the two is an easy option.
                     One of the main reasons for the popularity of React is that it works very efficiently with the DOM. Vue also uses the virtual DOM, but compared to React, Vue has better performance and stability. According to this data, Vue and React's performance difference is subtle since it is only a few milliseconds.
